@@ -29,7 +29,7 @@ public class HW03_test03 {
                 .build()
                 .perform();
 
-           WebElement webElement1 = driver.findElement(By.cssSelector(".s-header-sub-list__item:nth-child(1) > .s-header-sub-list-item__link"));
+        WebElement webElement1 = driver.findElement(By.cssSelector(".s-header-sub-list__item:nth-child(1) > .s-header-sub-list-item__link"));
         webElement1.click();
         Thread.sleep(1000);
 
