@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/HomeWork06T/AbstractPage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/HomeWork06T/LoginIn.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/HomeWork06T/MainMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/example/HomeWork06T/AbstractTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/example/HomeWork06T/MainPageTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/example/HomeWork07T/AbstractTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/org/example/HomeWork07T/MainPageTest.java" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>

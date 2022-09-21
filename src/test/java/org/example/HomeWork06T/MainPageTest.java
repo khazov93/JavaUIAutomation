@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 public class MainPageTest extends AbstractTest {
 
     @Test
+
     void mainMenuTest1(){
         MainMenu mainMenu = new MainMenu(getWebDriver());
         mainMenu
